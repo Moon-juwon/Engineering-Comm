@@ -87,6 +87,6 @@ public class BootSpringBootApplication {
 
 [이미지]
 
-![Alt text](https://github.com/Moon-juwon/Engineering-Comm/issues/1#issue-931083057)
+[puppylink](https://github.com/Moon-juwon/Engineering-Comm/issues/1#issue-931083057)
 
 <img src="https://github.com/Moon-juwon/Engineering-Comm/issues/1#issue-931083057" width=320px" height="320px" title="px(픽셀) 크기 설정/><br/>
