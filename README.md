@@ -75,7 +75,7 @@ public class BootSpringBootApplication {
 
 [링크]
 
-[link][identifier] will display a link.
+[Text to display][identifier] will display a link.
 
 [identifier]:http://naver.com/
 
