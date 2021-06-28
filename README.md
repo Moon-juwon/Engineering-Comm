@@ -18,21 +18,34 @@
 1) 첫번째
 2) 두번째
 3) 세번째
-...
+
 * 빨강
- * 녹색
-  * 파랑
-...
+   * 녹색
+     * 파랑
+
 - 빨강
- - 녹색
-  - 파랑
-...
+   - 녹색
+     - 파랑
+
 + 빨강
- + 녹색
-  + 파랑
-...
+    + 녹색
+       + 파랑
+
 [혼합사용]
 * 1단계
- - 2단계
-  + 3단계
-   + 4단계
+  - 2단계
+    + 3단계
+     + 4단계
+
+[들여쓰기-1줄 띄우기]
+
+This is a normal paragraph:
+
+ This is a code block.
+ 
+end code block
+
+[들여쓰기]
+This is a normal paragraph:
+ This is a code block.
+end code block.
