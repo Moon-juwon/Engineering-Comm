@@ -86,6 +86,7 @@ public class BootSpringBootApplication {
  취소선: ~~cancelline~~
 
 [이미지]
+
 <img src="https://github.com/Moon-juwon/Engineering-Comm/issues/1#issue-931083057.PNG"></img>
 
 [표]
