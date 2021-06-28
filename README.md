@@ -89,6 +89,8 @@ public class BootSpringBootApplication {
 
 ![puppy](https://user-images.githubusercontent.com/66113729/123568400-3887fa80-d7ff-11eb-95ed-48d446140f62.jpg)
 
+<img src="https://user-images.githubusercontent.com/66113729/123568400-3887fa80-d7ff-11eb-95ed-48d446140f62.jpg" width="320px" height="320px" title="puppy"></img>
+
 
 [표]
 | | 이름 | 나이 | 생일 |
