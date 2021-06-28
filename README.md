@@ -73,6 +73,11 @@ public class BootSpringBootApplication {
 
 외부링크: <http://naver.com/>
 
+[링크]
+
+[link][identifier] will display a link.
+[identifier]:http://naver.com/
+
 [강조]
 
 기울임: *single asterisks*
