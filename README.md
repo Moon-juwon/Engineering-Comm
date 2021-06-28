@@ -87,7 +87,8 @@ public class BootSpringBootApplication {
 
 [이미지]
 
-<img src="https://github.com/Moon-juwon/Engineering-Comm/issues/1#issue-931083057.PNG"></img>
+![puppy](https://user-images.githubusercontent.com/66113729/123568400-3887fa80-d7ff-11eb-95ed-48d446140f62.jpg)
+
 
 [표]
 | | 이름 | 나이 | 생일 |
