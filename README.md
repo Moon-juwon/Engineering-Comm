@@ -86,10 +86,7 @@ public class BootSpringBootApplication {
  취소선: ~~cancelline~~
 
 [이미지]
-
-[puppylink](https://github.com/Moon-juwon/Engineering-Comm/issues/1#issue-931083057.PNG "Optional title")
-
-<img src="https://github.com/Moon-juwon/Engineering-Comm/issues/1#issue-931083057.PNG" width=320px" height="320px" title="px(픽셀) 크기 설정/><br/>
+<img src="https://github.com/Moon-juwon/Engineering-Comm/issues/1#issue-931083057.PNG"></img>
 
 [표]
 | | 이름 | 나이 | 생일 |
